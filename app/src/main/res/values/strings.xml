@@ -1,0 +1,190 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="main_title">Tour Guide Version 1.0</string>
+    <string name="category_culture">Culture</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_monuments">Monuments</string>
+    <string name="category_shopping">Shopping</string>
+
+
+    <!-- Cultural places names -->
+    <string name="faneuil_hall_in_boston">Faneuil Hall in Boston</string>
+    <string name="river_walk_in_san_antonio">River Walk in San Antonio</string>
+    <string name="white_house_in_washington">White House in Washington</string>
+    <string name="walt_disney_world_in_orlando">Walt Disney World in Orlando</string>
+    <string name="french_quarter_in_new_orleans">French Quarter in New Orleans</string>
+
+    <!-- Cultural places Descriptions -->
+    <string name="faneuil_hall_in_boston_description">One of the most historic destinations in Boston, a city already
+        full of heritage, is Faneuil Hall Marketplace. Also known as the Cradle of Liberty, this early 18th century
+        structure served as a space where early leaders gathered to fight against oppression in the years before and
+        during the American Revolutionary War. Today, touring Faneuil Hall Marketplace means lots of opportunity to
+        shop for local produce and desserts in the indoor and outdoor marketplace.</string>
+
+    <string name="river_walk_in_san_antonio_description">In the city of San Antonio, Texas, there are few attractions more
+        ppealing than the River Walk. Also known as the Paseo del Rio, the River Walk is a network of walkways lining the
+        San Antonio River. Reserved for pedestrians, the revitalized area is packed with fascinating architecture,
+        lush greenery and water views. The River Walk is a hub for dining and culinary exploration in this Texan city.
+        It is possible to dig into Tex-Mex cuisine, upscale French fare and everything in between in this one easily
+        navigable destination.</string>
+
+    <string name="white_house_in_washington_description">The White House in Washington DC is the official residence and
+        office of the President of the United States. It was built between 1792 and 1800 and first used by President John Adams.
+        After the 9/11 attacks it has become more difficult to visit the White House and today tours are available only
+        for groups of 10 or more and must be requested up to six months in advance through your member of Congress or
+        your country’s US Ambassador.</string>
+
+    <string name="walt_disney_world_in_orlando_description">Orlando, Florida, is a hub of amusement parks,
+        but none is so popular as Walt Disney World. Many travelers don’t realize that Walt Disney World is actually
+        made up of several distinct theme parks, including the Magic Kingdom, Epcot, Hollywood Studios,
+        Animal Kingdom and the Blizzard Beach Water Park. Visitors will be able to enjoy thrill rides,
+        watch Broadway-quality shows and explore the nightlife, cuisine, shopping and entertainment at Disney Springs.</string>
+
+
+    <string name="french_quarter_in_new_orleans_description">New Orleans, Louisiana, is made up of several unique districts,
+        but none is so famous as the French Quarter. Also known as the Vieux Carre, the French Quarter truly explores the rich
+        French colonial influences on the city of New Orleans. Incredible architecture abounds, with the St. Louis Cathedral
+        being the main attraction. The French Quarter boasts the Moon Walk, a paved walkway next to the Mississippi River, as
+        well as Bourbon Street, the undeniable hub of nightlife, drinking and entertainment in the city.</string>
+
+    <!-- Cultural places LocationCoordinates -->
+    <string name="faneuil_hall_in_boston_location">lat:42.3602542,long:-71.0569365</string>
+    <string name="river_walk_in_san_antonio_location">lat:29.4247976,long:-98.4906843</string>
+    <string name="white_house_in_washington_location">lat:38.8976805,long:-77.0387238,17</string>
+    <string name="walt_disney_world_in_orlando_location">lat:28.3852377,long:-81.5660681</string>
+    <string name="french_quarter_in_new_orleans_location">lat:29.9576213,long:-90.0731793</string>
+
+
+    <!-- Parks names -->
+    <string name="mesa_verde">Mesa Verde</string>
+    <string name="navy_pier_in_chicago">Navy Pier in Chicago</string>
+    <string name="great_smoky_mountains_national_park">Great Smoky Mountains National Park</string>
+    <string name="bryce_canyon_national_park">Bryce Canyon National Park</string>
+    <string name="sedona_red_rock_country">Sedona Red Rock Country</string>
+
+    <!-- Parks Descriptions -->
+    <string name="mesa_verde_description">The Mesa Verde National Park in Colorado is home
+        to the preserved homes of the Ancestral Pueblo people. Many of these homes,
+        which are carved right from caves and rock faces, date back to the early 13th century.
+        Today, it is possible to walk beneath the overhanging cliffs and tour these ancient abodes.
+        The Balcony House is especially well preserved, and it boasts 40 rooms that are accessible
+        exclusively by ladder. The nearby Cliff Palace is even bigger, and it is believed to have
+        housed more than 100 people in its 150 original rooms.</string>
+
+    <string name="navy_pier_in_chicago_description">Extending over the waters of Lake Michigan is Navy Pier,
+        an enormous pier in the heart of Chicago’s coastal Streeterville neighborhood. Within the pier,
+        there are countless attractions suited to the whole family. Beautifully manicured gardens are the ideal
+        place for a scenic stroll, and lots of souvenir shops are a wonderful way to snag gifts on a vacation
+        to Chicago. The pier is also home to the Chicago Children’s Museum, two theaters and an abundance of
+        excellent restaurants.</string>
+
+    <string name="great_smoky_mountains_national_park_description">Straddling the border between Tennessee and North
+        Carolina is the Great Smoky Mountains National Park. The park is the most visited in the entire country,
+        thanks in large part to its enormous size and its incredible scenery. Visitors can hike through old growth
+        forest, spot hundreds of species of birds and check out the two visitor centers. Hikes can also wind through
+        trails that lead to the waterfalls of Laurel Falls and the vistas of Clingman’s Dome.</string>
+
+    <string name="bryce_canyon_national_park_description">Located in Southern Utah, Bryce Canyon National Park is a breathtaking
+        display of rock formations. Technically, Bryce Canyon isn’t a canyon, but a series of natural amphitheaters.
+        Mormon settlers once called the canyon home, but now most visitors come for the awe-inspiring views and the
+        magnificent hiking opportunities. Sunset Point is one of the most popular vantage points, offering panoramic views of the red,
+        yellow and orange rock formations. Queen’s Garden Trail is another favorite, because it offers green trees amongst the red
+        rocks for a brilliant juxtaposition.</string>
+
+    <string name="sedona_red_rock_country_description">A two-hour drive north of Phoenix is Sedona, Arizona. Sedona isn’t a big city,
+        but it is a major tourist attraction in the USA thanks to its gorgeous red rock landscape. Known as Red Rock Country,
+        this region is an outdoor lover’s dream. Countless canyons, creeks and paths encourage outdoor activity, with Cathedral
+        Rock Trail being one of the local favorite hiking spots. One of the most interesting spots in Sedona combines the new with
+        the old, with the contemporary Chapel of the Holy Cross built right into the side of the red rocks themselves.</string>
+
+    <!-- Parks Locations -->
+    <string name="mesa_verde_location">lat:37.2429765,long:-108.5356693</string>
+    <string name="navy_pier_in_chicago_location">lat:41.8923282,long:-87.6142967</string>
+    <string name="great_smoky_mountains_national_park_location">lat:35.6070357,long:-83.8144551</string>
+    <string name="bryce_canyon_national_park_location">lat:37.5735687,long:-112.3187443</string>
+    <string name="sedona_red_rock_country_location">lat:34.8686369,long:-111.7639592</string>
+
+
+    <!-- Monuments names -->
+    <string name="mount_rushmore">Mount Rushmore</string>
+    <string name="national_world_war_ii_Memorial">National World War II Memorial</string>
+    <string name="castle_clinton_national_park">Castle Clinton National Park</string>
+    <string name="lincoln_memorial">Lincoln Memorial</string>
+    <string name="george_washington_memorial_parkway">George Washington Memorial Parkway</string>
+
+    <!-- Monuments Descriptions -->
+    <string name="mount_rushmore_description">Perhaps the most unmistakably American landmark is Mount Rushmore,
+        a national memorial located in South Dakota. Constructed in the early 20th century, Mount Rushmore depicts
+        the faces of four former American presidents, each of which is carved and blasted from the side of a rock face.
+        Visitors can admire the larger-than-life faces of Thomas Jefferson, George Washington,
+        Abraham Lincoln and Theodore Roosevelt. The short Presidential Trail
+        at the base of Mount Rushmore provides better views and an interesting perspective on the landmark.</string>
+
+    <string name="national_world_war_ii_Memorial_description">Little over a decade old, Washington D.C.’s World War II Memorial
+        has quickly become a must-visit spot for anyone visiting the nation’s capital. Made up of 56 pillars, a fountain and two
+        arches, it is a simple but striking tribute to the sacrifices made during WW2.</string>
+
+    <string name="castle_clinton_national_park_description">Originally built in 1812 to stop a British Invasion, Castle Clinton
+        marks the beginning of the development of New York City. It has been a fort, a theatre, an immigration station,
+        and now it is an essential tourist attraction for all Manhattan visitors.</string>
+
+    <string name="lincoln_memorial_description">The ubiquitous Lincoln Memorial still manages to be awe-inspiring even after
+        you have seen it on countless postcards and everywhere from textbooks to an episode of ‘The Simpsons’.
+        The giant statue surrounded by the words of the Gettysburg Address is a must-visit for any American wanting
+        to pay tribute to a great president.</string>
+
+    <string name="george_washington_memorial_parkway_description">One of the USA’s so-called ‘All American Roads’, the George Washington
+        Memorial Parkway is a 25-mile road through Virginia (with a small segment in D.C.) full of memorials and reminders of America’s
+        history as a nation, from the Marine Corps War Memorial to the Arlington Bridge into Washington.</string>
+
+    <!-- Monuments Locations -->
+    <string name="mount_rushmore_location">lat:43.8791063,long:-103.4612607</string>
+    <string name="national_world_war_ii_Memorial_location">lat:38.8894141,long:-77.0416496</string>
+    <string name="castle_clinton_national_park_location">lat:40.7034441,long:-74.0189963</string>
+    <string name="lincoln_memorial_location">lat:38.8893093,long:-77.0485429</string>
+    <string name="george_washington_memorial_parkway_location">lat:38.8435777,long:-77.0512763</string>
+
+    <!-- Shopping places names -->
+    <string name="mall_of_america">Mall of America</string>
+    <string name="aventura_mall">Aventura Mall</string>
+    <string name="del_amo_fashion_center">Del Amo Fashion Center</string>
+    <string name="woodfield_mall">Woodfield Mall</string>
+    <string name="sawgrass_mills">Sawgrass Mills</string>
+
+    <string name="mall_of_america_description">The history of modern mall development is divided into two distinct eras:
+        everything that came before Mall of America and everything after. With more than 400 shops,
+        MOA changed the playing field radically, not just in terms of size (for years it was the world’s
+        largest mall) but also that heady blend of retail, entertainment, and “Wow!” factor that subsequent
+        malls have tried to achieve. MOA continues to lead them all with 40 million visitors—nearly as many as Italy’s
+        foreign tourist arrivals last year. </string>
+
+    <string name="aventura_mall_description">The greater Miami area’s largest mall is an integral part of a super-posh coastal
+        enclave that includes the Turnberry Isle resort and championship golf course, Gulfstream Park thoroughbred horse track,
+        and the upscale Golden Beach/Golden Isles residential area. Cashing in on south Florida’s tourism bounty, the mall
+        organizes shopping experiences for visiting conventions and hosts special events like the Chocolate Festival,
+        Great American Bake Sale, Miami’s Most Photogenic Baby contest, and a regular farmers’ market.</string>
+
+    <string name="del_amo_fashion_center_description">The prototypical L.A. mall, Del Amo has appeared in movies like Valley Girl,
+        Bad Santa, and Beverly Hills 90210. It attracts a mixed bag of well-heeled Palos Verdes residents, surfer dudes from nearby
+        Redondo Beach, and inner-city patrons from Compton and Long Beach. Del Amo’s most popular entertainment attractions
+        are an 18-theater Cineplex and a Lucky Strike Lanes bowling alley.</string>
+
+    <string name="woodfield_mall_description">Located just outside of Chicago, Woodfield is the number one tourist destination in the
+        State of Illinois. Its name pays posthumous tribute to two of the greatest retailers of all time: General Robert E. Wood of
+        Sears fame and the legendary Marshall Field. Many of the specialty stores are the largest of their kind in the U.S.,
+        and Woodfield is often used to test new store design and marketing concepts. Its trademark stainless-steel sculptures were
+        fashioned by artist Robert Engman.</string>
+
+    <string name="sawgrass_mills_description">Like Del Amo on the left coast, this Florida landmark is one of the anchor properties
+        of the Simon Property Group, the nation’s largest mall owner. Sawgrass takes its name from the nearby Everglades,
+        located just across the expressway from the mall on the western outskirts of Fort Lauderdale. In addition to
+        the core enclosed area, Sawgrass includes an outdoor entertainment area called the Oasis and an outlet component dubbed the Colonnade.
+    </string>
+
+    <!-- Shopping places Locations -->
+    <string name="mall_of_america_location">lat:44.8548689,long:-93.2444088</string>
+    <string name="aventura_mall_location">lat:25.9581989,long:-80.1443127</string>
+    <string name="del_amo_fashion_center_location">lat:33.8305609,long:-118.351763</string>
+    <string name="woodfield_mall_location">lat:42.0452961,long:-88.0405939</string>
+    <string name="sawgrass_mills_location">lat:26.1516459,long:-80.3242469</string>
+</resources>
